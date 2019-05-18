@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1521176719 source:c:\users\tony nguyen\desktop\sdsu related items\2018 spring\compe-260\compe-260 projects\staque\main.cpp
+	<iostream>
+	"Staque.h"
+
+1521178547 c:\users\tony nguyen\desktop\sdsu related items\2018 spring\compe-260\compe-260 projects\staque\staque.h
+	<iostream>
+
+1521176215 source:c:\users\tony nguyen\desktop\sdsu related items\2018 spring\compe-260\compe-260 projects\staque\staque.cpp
+	<iostream>
+	<stdlib.h>
+	<new>
+	"Staque.h"
+
